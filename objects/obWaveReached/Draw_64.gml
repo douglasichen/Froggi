@@ -1,0 +1,1 @@
+guiObj.drawSelf()

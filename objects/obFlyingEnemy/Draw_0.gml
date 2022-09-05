@@ -1,0 +1,2 @@
+enemy.drawTongue()
+enemy.drawSelf()

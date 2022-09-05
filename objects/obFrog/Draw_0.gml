@@ -1,0 +1,2 @@
+frog.drawTongue()
+frog.drawSelf()

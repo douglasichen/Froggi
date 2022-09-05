@@ -1,0 +1,2 @@
+frog.operate()
+frog.operateFrog()

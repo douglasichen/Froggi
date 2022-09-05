@@ -1,0 +1,3 @@
+
+enemy.operate()
+enemy.operateEnemy()

@@ -1,0 +1,1 @@
+menu = new deathMenu(id)
