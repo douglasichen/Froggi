@@ -2,4 +2,4 @@
 - Built with Gamemaker Studio 2.
 
 ## How to use
-- Excecutables folder
+- Excecutables folder (only built for windows)
