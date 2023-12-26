@@ -6,3 +6,4 @@ In this fun game, you are a frog. However, you are no ordinary frog. Froggi can 
 
 ## How to use
 - Excecutables folder (only built for windows)
+- Gamemaker Studio 2 version: 2.3.3.574
